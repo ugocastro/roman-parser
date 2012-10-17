@@ -1,4 +1,3 @@
-require "../src/invalid_number_exception.rb"
 require "../src/roman_parser.rb"
 
 describe "RomanParser" do
