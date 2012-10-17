@@ -1,4 +1,4 @@
-roman-parser
+Roman Parser
 ============
 
-Parser from roman to arabic number
+A Ruby mini-project using TDD with RSpec to convert roman numbers into arabic numbers.
